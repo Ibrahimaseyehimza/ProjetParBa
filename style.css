@@ -144,13 +144,14 @@ nav ul li a:hover{
 
 }
 
-.p2_section3{
+.section3 .div_section3 .p2_section3 {
     position: relative;
     display: flex;
     font-size: 18px;
-    left: -300px;
-    
+    right: 210px;
 }
+
+
 
 .div_section3{
     position: relative;
@@ -265,7 +266,7 @@ nav ul li a:hover{
     justify-content: center; */
     margin: -100px;
     margin-bottom: 20px;
-    margin-left: 80px;
+    margin-left: 15%;
     
     
     
@@ -275,7 +276,7 @@ nav ul li a:hover{
 
 .boutt1{
     position: relative;
-    left: 900px;
+    left: 80%;
     bottom: 200px;
     background-color: #165E76;
     color: white;
@@ -284,7 +285,7 @@ nav ul li a:hover{
 }
 .boutt2{
     position: relative;
-    left: 170px;
+    left: 15%;
     bottom: 200px;
     background-color: #165E76;
     color: white;
@@ -293,7 +294,7 @@ nav ul li a:hover{
 }
 .boutt3{
     position: relative;
-    left: 100px;
+    left: 12%;
     bottom: 200px;
     background-color: #165E76;
     color: #B2DFF4;
@@ -302,7 +303,7 @@ nav ul li a:hover{
 }
 .boutt4{
     position: relative;
-    left: 970px;
+    left: 85%;
     bottom: 200px;
     background-color: #165E76;
     color: #B2DFF4;
